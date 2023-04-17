@@ -1,0 +1,13 @@
+﻿  Support Recuritment game FCIS THEME.cpp
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Player.h(25,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Story.h(23,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Story.h(65,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Story.h(76,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\background.h(25,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME.cpp(188,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME.cpp(196,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME.cpp(240,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME.cpp(254,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME.cpp(263,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME\Support Recuritment game FCIS THEME.cpp(279,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Support Recuritment game FCIS THEME.vcxproj -> D:\source\repos\Support Recuritment game FCIS THEME\Debug\Support Recuritment game FCIS THEME.exe
